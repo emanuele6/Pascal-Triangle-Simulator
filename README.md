@@ -16,7 +16,7 @@ examples:
 
 ![alt text](http://i.imgur.com/pyfCR8j.png)
 
-In cases like example #2 you might want to 'cut' the triangle because the values of the rows under, in this case, the fifth are wrong
+In cases like example #2 you might want to 'cut' the triangle because the values of the rows under the fifth are wrong
 
 To generate and cut the triangle input reset(root, rows)
 
