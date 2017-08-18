@@ -1,5 +1,5 @@
 # Pascal-Triangle-Simulator
-Generates 'pascal triangles' from a given root
+This app generates 'pascal triangles' from a given root
 
 To generate a triangle input reset(root) in the browser console
 
