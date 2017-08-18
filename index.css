@@ -1,0 +1,39 @@
+div.container {
+    background: white;
+    outline: 1px solid black;
+    float: left;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    line-height: 30px;
+}
+
+div.container[type="zero"] {
+    background: black;
+}
+
+div.row {
+    position: relative;
+    clear: both;
+}
+
+div.row[type="even"] {
+    left: 0px;
+}
+
+div.row[type="odd"] {
+    left: 15px;
+}
+
+div.main {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+
+body {
+    background: black;
+}
